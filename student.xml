@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+  <title>Student</title>
+  <card>
+    <name>Ivan</name>
+    <suname>Sirko</suname>
+    <age>20</age>
+    <student>true</student>
+  </card>
+  <hostel>
+    <number>2</number>
+    <address>Veluka str.</address>
+  </hostel>
+  <subject>
+    <math>3</math>
+    <english>4</english>
+    <ukrainian>5</ukrainian>
+  </subject>
+  <course>
+    <pass>true</pass>
+  </course>
+  <friends>
+    <Tom>
+      <age>21</age>
+      <hobbi>football</hobbi>
+    </Tom>
+    <Bobbi>
+      <age>23</age>
+      <hobbi>regbi</hobbi>
+    </Bobbi>
+  </friends>
+</student>

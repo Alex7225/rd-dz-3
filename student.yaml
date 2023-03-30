@@ -1,0 +1,29 @@
+student:
+  title: Student
+  card:
+    name: Ivan
+    suname: Sirko
+    age: 20
+    student: true
+  hostel:
+    number: 2
+    address: Veluka str.
+  subject:
+    math: 3
+    english: 4
+    ukrainian: 5
+  course:
+    pass: true
+  friends:
+    Tom:
+      age: 21
+      hobbi: football
+    Bobbi:
+      age: 23
+      hobbi: regbi
+  parents: [Anna, John]
+  brothers:
+    -"Jack
+    -"Harry"
+    -"Phill"
+  sisters: false
